@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+   
+}
+div{
+    display: block;
+}
+.container{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 35%;
+    width:300px;
+    height: 370px;
+    background-color: rgb(240, 188, 188);
+    padding: 20px;
+  
+}
+.inputHandle{
+    margin-top: 50px;
+    margin: 30px;
+}
+.inputHandle input{
+     padding: 15px;
+     font-size: medium;
+}
+.inputHandle label{
+    padding: 15px;
+    font-size: 30px;
+    color:tomato;
+}
+.button{
+    margin-top: 40px;
+    margin: 15px;
+}
+.button button{
+    padding: 15px;
+    font-size: medium;
+}
+
+.card-container{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    width:200px;
+    height: 250px;
+    background-color: rgb(188, 240, 190);
+    padding: 20px;
+    display:inline-block;
+    
+  
+}
+.back1{
+    width: 50px;
+    background-color: tomato;
+} 
+.back1{
+    width: 200px;
+    background-color: white
+}
+.back2{
+    width: 200px;
+    background-color: white
+}
+.card_button  button{
+    padding: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
